@@ -11,3 +11,5 @@ W
 'tests/construction-coordination.test.ts,8/1/81c2b7f410dcd80c8e1835e831db2b34407933d1
 Q
 !contracts/power-distribution.clar,4/1/4109226d52b61749f0f98197604635d9017704ea
+P
+ tests/power-distribution.test.ts,e/0/e03e7c72fd35da9b72bad65aaec00a1132d62d06
