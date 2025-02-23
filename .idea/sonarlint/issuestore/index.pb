@@ -9,3 +9,5 @@ X
 (contracts/construction-coordination.clar,d/1/d1cd7288bb102215397db64ab70e6e4449b27628
 W
 'tests/construction-coordination.test.ts,8/1/81c2b7f410dcd80c8e1835e831db2b34407933d1
+Q
+!contracts/power-distribution.clar,4/1/4109226d52b61749f0f98197604635d9017704ea
