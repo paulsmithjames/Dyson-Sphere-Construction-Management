@@ -15,3 +15,5 @@ P
  tests/power-distribution.test.ts,e/0/e03e7c72fd35da9b72bad65aaec00a1132d62d06
 V
 &contracts/maintenance-drone-fleet.clar,e/e/eeb3e9083976c1e6a6016ed6e22d0e68a974a775
+U
+%tests/maintenance-drone-fleet.test.ts,3/a/3abc1bf6c9f8dd8b9baca281867482143d501ce0

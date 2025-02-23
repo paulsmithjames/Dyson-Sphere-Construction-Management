@@ -60,6 +60,11 @@ plan:
             path: contracts/energy-capture-module.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: maintenance-drone-fleet
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/maintenance-drone-fleet.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: power-distribution
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/power-distribution.clar
